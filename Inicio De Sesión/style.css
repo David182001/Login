@@ -1,0 +1,20 @@
+body{
+	background: url("fondo.jpg") no-repeat fixed;
+	-webkit-background-size: cover;
+}
+
+.centrado{
+	text-align: center;
+}
+
+.imagen{
+	text-align: center; 
+	padding: 12px 570px;
+	width: 150px;
+	height: 150px;
+}
+
+.imagenes{
+	width: 25px;
+	height: 25px;
+}
